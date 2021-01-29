@@ -50,7 +50,7 @@ const LINKS = {
     'GEO': 'https://meet.google.com/lookup/gflb74w6lm',
     'HIN': 'https://meet.google.com/lookup/fushorjlyx',
     'PHY': 'https://meet.google.com/lookup/fqmdhzghkf',
-    'BIO': ['https://meet.google.com/lookup/e3cdias5nj', 'https://meet.google.com/lookup/dmknsrfdev'],
+    'BIO': 'https://meet.google.com/lookup/e3cdias5nj'
     'PT': 'https://meet.google.com/lookup/hg2xu3okug',
     'IT': 'https://meet.google.com/lookup/dooaoo4mxt',
     'ENG': 'https://meet.google.com/lookup/dtz24aco2y',
